@@ -5,7 +5,7 @@ import CharList from "../components/charList/CharList";
 import CharInfo from "../components/charInfo/CharInfo";
 import ErrorBoundary from "../components/errorBoundary/ErrorBoundary";
 import decoration from "../resources/img/vision.png";
-import SearchChars from "../components/searchChars/searchChars";
+import SearchChars from "../components/searchChars/SearchChars";
 
 const Home = ({ selectedChar, onCharSelected }) => {
     return (
